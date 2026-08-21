@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Estates",
+  "description": "Premium American luxury real estate platform featuring advanced filters, interactive calculators, agent directories, housing market dashboards, and intelligent AI-powered home valuations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
